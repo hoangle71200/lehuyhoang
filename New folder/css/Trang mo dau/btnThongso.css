@@ -1,0 +1,19 @@
+    
+    .btnThongso{
+        color: black;
+        background-color: #01d6fe ;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        padding: 20px 170px 20px 170px;
+        
+    }
+
+    table, td, th{
+        border: 1px solid black;
+        border-collapse: collapse;
+        height: 40px;
+        padding-left: 5%;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }

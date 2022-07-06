@@ -1,0 +1,35 @@
+
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:  #373e4d;
+    min-width: 265px;
+    
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #96989e;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #060b24;
+    padding: 20px 20px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    color: #01d6fe;
+    background-color: #373e4d }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  

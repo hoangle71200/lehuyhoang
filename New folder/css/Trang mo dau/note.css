@@ -1,0 +1,10 @@
+
+    .note1{
+        border: 1px solid blue;
+        width: 1350px;
+        height: fit-content;
+        left: 30px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 20px;
+    }

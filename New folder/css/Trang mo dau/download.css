@@ -1,0 +1,19 @@
+.btnD {
+    background-color: #383838;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 100px;
+    margin-top: 50px;
+    display: flex; flex-direction: column;
+    
+  }
+  
+
+  .btnD:hover {
+    background-color: #D8D8D8;
+  }
+
+  
